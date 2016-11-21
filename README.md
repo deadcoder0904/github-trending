@@ -1,5 +1,7 @@
 # github-trending
 
+> :alien: Trending Repos on Github :octocat: in a fly :rocket:
+
 ## License
 
 [MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
