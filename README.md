@@ -1,6 +1,6 @@
 # github-trending
 
-> :alien: Trending Repos on Github :octocat: in a fly :rocket:
+> :octocat: Github Trending Repos :alien: in a fly :rocket:
 
 ## License
 
