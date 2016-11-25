@@ -2,6 +2,10 @@
 
 > :octocat: Github Trending Repos :alien: in a fly :rocket:
 
+# Screenshot
+
+![Trends](http://imgur.com/U0r2Xfc.png)
+
 ## License
 
 [MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
