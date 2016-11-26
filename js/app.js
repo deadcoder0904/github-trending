@@ -25,7 +25,7 @@ function handleData(day, data) {
 	trending.append(arr.join(""));
 }
 
-$(document).ready(function() {
+$(document).ready(() => {
 	
 	$('body').flowtype({ 
 	 minimum : 300, 
