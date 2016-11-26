@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![Trends](http://imgur.com/U0r2Xfc.png)
+![Trends](http://imgur.com/ilNCm5p.png)
 
 ## License
 
